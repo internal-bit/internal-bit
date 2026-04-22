@@ -1,4 +1,4 @@
-# Hello and welcome, my username is internal.
+# Hello, my name is internal.
 
 ## My Goals and Dreams
 - To master C++ (my favorite).
