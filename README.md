@@ -13,7 +13,7 @@
 - Learn how to code and do more creative projects.
 
 ## Languages
-= C++
-= C#
-= Lua
-= for now those 3 is my main focus, but i love C++ so much bcs i love pain.
+- C++
+- C#
+- Lua
+- for now those 3 is my main focus, but i love C++ so much bcs i love pain.
